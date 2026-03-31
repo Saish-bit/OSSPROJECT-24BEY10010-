@@ -3,8 +3,8 @@ Capstone project for OSS NGMC Course - Open Source Audit of Git.
 The Open Source Audit: Git
 Course: Open Source Software (NGMC)
 
-Name: Vishal Disale                                                                                                                             
-Reg No: 24BCE10121
+Name: Saish Nimbalkar                                                                                                                             
+Reg No: 24BEY10010
 
 Project Overview
 This repository contains my Capstone Project for the OSS course. It focuses on a structured audit of Git, exploring its origins, licensing, and its role in the modern FOSS ecosystem.

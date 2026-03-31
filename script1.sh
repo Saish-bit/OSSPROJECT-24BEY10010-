@@ -1,8 +1,8 @@
 #!/bin/bash
 # Script 1: System Identity Report
-# Author: Vishal Disale [cite: 103]
+# Author: Saish Nimbalkar [cite: 103]
 
-STUDENT_NAME="Vishal Disale"
+STUDENT_NAME="Saish Nimbalkar"
 SOFTWARE_CHOICE="Git"
 KERNEL=$(uname -r)
 DISTRO=$(cat /etc/os-release | grep "PRETTY_NAME" | cut -d'"' -f2)
